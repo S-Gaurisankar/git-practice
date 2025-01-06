@@ -1,8 +1,6 @@
 # GIT PRACTICE
 
-*Change for conflict resolution*
-
-*Change for conflict resolution*
+CONFLICT 2
 
 ### Setup: 
 
