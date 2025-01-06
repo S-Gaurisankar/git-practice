@@ -1,6 +1,10 @@
 # GIT PRACTICE
 
+
+CONFLICT 1
+
 CONFLICT 2
+
 
 ### Setup: 
 
